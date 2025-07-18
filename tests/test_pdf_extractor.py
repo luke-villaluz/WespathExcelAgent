@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 sys.path.append('src')
 
-from pdf_processor.extractor import extract_all_text
+from pdf_processor.pdf_extractor import extract_all_text
 
 # Load environment variables
 load_dotenv()
