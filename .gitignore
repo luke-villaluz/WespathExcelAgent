@@ -2,4 +2,4 @@
 /venv/
 .env
 /tests/temp_sheets/
-#/logs
+/logs
