@@ -1,5 +1,7 @@
-import pdfplumber
 from pathlib import Path
+
+import pdfplumber
+
 
 def extract_all_text(pdf_path: Path) -> str:
     """Extract ALL text from a PDF file."""
