@@ -1,3 +1,4 @@
 /Wespath Spreadsheet Files/
 /venv/
 .env
+/tests/temp_sheets/
